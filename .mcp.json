@@ -1,0 +1,1 @@
+{"mcpServers":{"archi":{"command":"/opt/homebrew/bin/uv","args":["run","--script","/Users/derryderajat/MCP/mcp_archi/archi_mcp.py"]}}}
